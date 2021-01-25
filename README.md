@@ -8,5 +8,5 @@
 技术栈：
 Appium + Python + ADB 
 
-核心源码在 scripts/test.py 文件内
+核心源码在 scripts/test.py 文件内  
 纯自己实现，如果您有更好的建议，请留言。
